@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+
+.library {
+    display: flex;
+    height: 1000px;
+    width: 500px;
+    border: 1px solid black;
+    margin: 20px auto;
+    align-content: flex-start;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.card {
+    border: 1px solid red;
+    white-space: pre-line;
+}
